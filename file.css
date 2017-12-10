@@ -1,1 +1,33 @@
+p {
+  color:Gray;
+  background-color:DarkSalmon;
+  font-size:130%;
+  } /*Se aplica tuturor paragrafelor*/ 
+
+h1 {
+   color:IndianRed;
+   }
+h2 {
+   color:LightCoral;
+   }
+h3 {
+   color:Salmon;
+   }
+h4 {
+   color:DarkSalmon;
+   }
+
+.first { font-size:300%; }
+/*punctul se foloseste pentru clasa*/
+
+#intro {
+color:DarkSalmon;
+background-color:FireBrick;
+       }  /* diez - pentru id*/ 
+
+#intro.first em {
+color:FireBrick;
+background-color:gray;
+}
+
 
