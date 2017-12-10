@@ -1,1 +1,27 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "sequelize": "^4.22.5",
+    "mysql": "^3.10.10",
+    "express-myconnection": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristinaApostu/dbspa-reading-lists.git"
+  },
+  "author": "cristina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristinaApostu/dbspa-reading-lists/issues"
+  },
+  "homepage": "https://github.com/CristinaApostu/dbspa-reading-lists#readme"
+}
 
